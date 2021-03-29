@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi Teemo! 👋
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 <a href="https://www.kia.com/kr/main.html" target="_blank"><img src="https://img.shields.io/badge/KIA-05141f?style=flat-square&logo=Kia&logoColor=white"/></a>

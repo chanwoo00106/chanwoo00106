@@ -1,6 +1,7 @@
 # Hi there 👋
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/kia-05141f?style=flat-square&logo=Kia&logoColor=white"/></a>
 
 
 <!--

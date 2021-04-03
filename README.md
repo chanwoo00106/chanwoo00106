@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[click me!!](https://github.com/chanwoo00106)
+[click me!!](https://test.byun00106.repl.co)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanwoo00106&theme=vue&show_icons=ture)
 <!--

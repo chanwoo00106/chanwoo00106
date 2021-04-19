@@ -12,8 +12,8 @@
 ## [Never underestimate the power of the Scout's code...](https://test.byun00106.repl.co)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanwoo00106&theme=vue&show_icons=ture)
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo00106&hide_langs_below=0.5)](https://github.com/chanwoo00106)
--->
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo00106%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

@@ -11,9 +11,7 @@
 
   ## [Never underestimate the power of the Scout's code...](https://test.byun00106.repl.co)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanwoo00106&theme=vue&show_icons=ture)
-  
-  ![](https://raw.githubusercontent.com/chanwoo00106/chanwoo00106/master/profile-summary-card-output/solarized/3-stats.svg)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=chanwoo00106&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanwoo00106&theme=solarized)
 

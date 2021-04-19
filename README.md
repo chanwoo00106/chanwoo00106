@@ -13,7 +13,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanwoo00106&theme=vue&show_icons=ture)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanwoo00106&theme=vue)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanwoo00106&theme=solarized)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo00106%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

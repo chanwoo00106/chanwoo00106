@@ -11,9 +11,9 @@
 
   ## [Never underestimate the power of the Scout's code...](https://test.byun00106.repl.co)
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=chanwoo00106&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  ![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=chanwoo00106&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanwoo00106&theme=solarized)
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanwoo00106&show_icons=true&locale=en&" alt="chanwoo00106" /></p>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo00106%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

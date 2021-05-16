@@ -4,7 +4,6 @@
   <a href="https://www.kia.com/kr/main.html" target="_blank"><img src="https://img.shields.io/badge/KIA-05141f?style=flat-square&logo=Kia&logoColor=white"/></a>
   <a href="https://pypi.org/project/numpy/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
   <a href="https://www.oracle.com/kr/index.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <a href="https://www.tensorflow.org/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
   <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
   ## [Never underestimate the power of the Scout's code...](https://test.byun00106.repl.co)

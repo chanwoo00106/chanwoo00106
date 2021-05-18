@@ -6,7 +6,7 @@
   <a href="https://www.oracle.com/kr/index.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
-  ## [Never underestimate the power of the Scout's code...](https://test.byun00106.repl.co)
+  ## Never underestimate the power of the Scout's code...
 
   ![chanwoo00106 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=chanwoo00106&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 

@@ -1,4 +1,3 @@
-![Cópia de Sem nome](https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Teemo!%20&fontSize=90)
 
 <div align="center">

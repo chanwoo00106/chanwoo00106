@@ -19,3 +19,6 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo00106%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+
+![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)

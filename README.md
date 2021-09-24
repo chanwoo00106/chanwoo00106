@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Teemo!%20&fontSize=90)
+
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
   <a href="https://www.kia.com/kr/main.html" target="_blank"><img src="https://img.shields.io/badge/KIA-05141f?style=flat-square&logo=Kia&logoColor=white"/></a>
@@ -17,5 +18,7 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanwoo00106&show_icons=true&locale=en&" alt="chanwoo00106" /></p>
 
+  ![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo00106%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

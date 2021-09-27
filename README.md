@@ -18,6 +18,8 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanwoo00106&show_icons=true&locale=en&" alt="chanwoo00106" /></p>
   
   ![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+  
+  <img style="width: 50px" src="https://github.githubassets.com/images/mona-loading-default.gif">
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo00106%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

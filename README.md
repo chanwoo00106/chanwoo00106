@@ -17,7 +17,7 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanwoo00106&show_icons=true&locale=en&" alt="chanwoo00106" /></p>
   
-  ![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+  ![snake?](https://raw.githubusercontent.com/chanwoo00106/chanwoo00106/output/github-contribution-grid-snake.svg)
   
   <img style="width: 50px" src="https://github.githubassets.com/images/mona-loading-default.gif">
 
